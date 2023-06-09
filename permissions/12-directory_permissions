@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir/drwxr-x--x 
+mkdir -p -m 751 12-directory_permissions
